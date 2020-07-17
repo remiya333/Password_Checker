@@ -3,7 +3,7 @@ import hashlib
 import sys
 
 '''
-This Code checks whether a given password is hacked or not using a api.
+This Code checks whether a given password is hacked or not using a api which returns the number of times a password is hacked.
 The passwords to be checked is inputted from the commandline.
 '''
 
